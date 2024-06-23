@@ -2,7 +2,7 @@
 ## Export your plex posters, and episode title cards to file
 ---
 ### Requirements:
-- Python
+- Python 3.5 or newer
 - plexapi (`pip install plexapi`)
 ---
 
